@@ -119,7 +119,7 @@ public:
       for(int i=0; i<N; i++) {
         c = prefix[i];
         int pos = getIndex(c);
-        bool notFound = curr->mp[c]; // curr->mp.find(ch) == curr->mp.end();
+        bool notFound = (curr->mp[pos] == nullptr); // curr->mp.find(ch) == curr->mp.end();
         if(notFound) {
           curr = nullptr;
           break;
@@ -131,9 +131,9 @@ public:
 
     // destructor
     ~Trie() {
-      cout<<"destroying Trie\n";
+      // cout<<"destroying Trie\n";
       startDfs();
-      cout<<"destroyed Trie\n";
+      // cout<<"destroyed Trie\n";
     }
 
     void startDfs() {
@@ -156,7 +156,7 @@ public:
       }
       
       delete u;
-      cout<<"destroyed "<<getChar(somePos)<<"\n";
+      // cout<<"destroyed "<<getChar(somePos)<<"\n";
     }
 };
 
