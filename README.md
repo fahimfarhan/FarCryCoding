@@ -3,7 +3,7 @@ I wish to keep only algorithm implementations / tutorials here so that I can fin
 [coding-creed-origins](https://github.com/fahimfarhan/coding-creed-origins) is bloated, and I can't find things in there.
 
 To my future self: Let's make some rules:
-1. For sample problems, file names should be <platformName>-<problemNumber>-<problemTitle>.<extension>
+1. For sample problems, file names should be `<platformName>-<problemNumber>-<problemTitle>.<extension>`
   For example, `leetCode-127-word-ladder.cpp`, `codeForces-1639A-treasure-hunt.cpp`, etc.
 2. Since file name is self explainatory, let's create commit messages based on problem categories / tags.
   For example, a sample commit message `:rocket: #tags graph bfs string hash_set`
