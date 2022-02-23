@@ -38,7 +38,12 @@ public:
         dfsUpdateNeighbours(node);
 
         int nodeVal = node->val;
-        return mp[nodeVal];
+        Node* rootOfClone = mp[nodeVal];
+
+        mp.clear();
+        isVisited.clear();
+
+        return rootOfClone;
     }
 
     void dfsUpdateNeighbours(Node* u) {
