@@ -11,6 +11,11 @@ To my future self: Let's make some rules:
   problem, what the feature should be, what I did to implement it, etc in a commit message.
 3. Keep it simple stupid! (KISS)
 
+## Docs
+* [leetCode-740-delete-and-earn.md](./docs/leetCode/leetCode-740-delete-and-earn.md)
+* [leetCode-82-remove-duplicates-from-sorted-list-ii.md](./docs/leetCode/leetCode-82-remove-duplicates-from-sorted-list-ii.md)
+* [leetCode-847-shortest-path-visiting-all-nodes.md](./docs/leetCode/leetCode-847-shortest-path-visiting-all-nodes.md)
+
 ## Useful links
 1. [RodneyShag/LeetCode_solutions](https://github.com/RodneyShag/LeetCode_solutions) 
 
