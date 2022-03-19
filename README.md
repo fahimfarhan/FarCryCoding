@@ -15,7 +15,7 @@ To my future self: Let's make some rules:
 * [leetCode-740-delete-and-earn.md](./docs/leetCode/leetCode-740-delete-and-earn.md)
 * [leetCode-82-remove-duplicates-from-sorted-list-ii.md](./docs/leetCode/leetCode-82-remove-duplicates-from-sorted-list-ii.md)
 * [leetCode-847-shortest-path-visiting-all-nodes.md](./docs/leetCode/leetCode-847-shortest-path-visiting-all-nodes.md)
-
+* [leetCode-895-maximum-frequency-stack.md](./docs/leetCode/leetCode-895-maximum-frequency-stack.md)  `Hard category`
 ## Useful links
 1. [RodneyShag/LeetCode_solutions](https://github.com/RodneyShag/LeetCode_solutions) 
 
