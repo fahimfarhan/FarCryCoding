@@ -16,8 +16,10 @@ To my future self: Let's make some rules:
 * [leetCode-82-remove-duplicates-from-sorted-list-ii.md](./docs/leetCode/leetCode-82-remove-duplicates-from-sorted-list-ii.md)
 * [leetCode-847-shortest-path-visiting-all-nodes.md](./docs/leetCode/leetCode-847-shortest-path-visiting-all-nodes.md)
 * [leetCode-895-maximum-frequency-stack.md](./docs/leetCode/leetCode-895-maximum-frequency-stack.md)  `Hard category`
+* [Sqrt decomposition](./docs/e-maxx-eng/sqrt_decomposition.md)
 ## Useful links
-1. [RodneyShag/LeetCode_solutions](https://github.com/RodneyShag/LeetCode_solutions) 
+1. [cp-algorithms](https://cp-algorithms.com/index.html) This is my new favourite website! Study this thoroughly
+2. [RodneyShag/LeetCode_solutions](https://github.com/RodneyShag/LeetCode_solutions) 
 
 (Yeah, I watch others' solutions a lot because if it takes more than 20 minutes, you probably can't figure it out. So one should 
 study related topics, see some example solutions etc. )
