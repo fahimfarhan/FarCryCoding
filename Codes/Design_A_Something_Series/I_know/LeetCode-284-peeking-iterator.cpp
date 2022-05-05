@@ -49,6 +49,10 @@ public:
         peekaboo = -1;
   }
 	
+   ~PeekingIterator() {
+    delete it;
+  }
+	
     // Returns the next element in the iteration without advancing the iterator.
 	int peek() {
         return peekaboo;
