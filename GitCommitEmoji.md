@@ -64,7 +64,7 @@ refactor: Refactoring production code
 
 test: Adding tests, refactoring test; no production code change
 
-chore: Updating build tasks, package manager configs, etc; no production code change (chore is not Build)
+chore: Updating build tasks, package manager configs, etc; no production code change (chore is now Build)
 
 Nice article on [semantic commit messages](https://nitayneeman.com/posts/understanding-semantic-commit-messages-using-git-and-angular/)
 
