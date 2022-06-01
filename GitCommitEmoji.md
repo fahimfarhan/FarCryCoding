@@ -64,7 +64,32 @@ refactor: Refactoring production code
 
 test: Adding tests, refactoring test; no production code change
 
-chore: Updating build tasks, package manager configs, etc; no production code change
+chore: Updating build tasks, package manager configs, etc; no production code change (chore is not Build)
+
+Nice article on [semantic commit messages](https://nitayneeman.com/posts/understanding-semantic-commit-messages-using-git-and-angular/)
+
+Read the commit messages. You'll get a clear idea which commit falls under which type (eg, `Removes` falls under `Refactor`)
+
+Looks like these are the main ones.
+
+:construction_worker:         Build
+
+:green_heart:                 Ci
+
+:memo:                        Docs
+
+:sparkles:                    Feat
+
+:bug:                         Fix
+
+:zap:                         Perf
+
+:recycle:                     Refactor
+
+:art:                         Style
+
+:white_check_mark:            Test
+
 
 Found this [awesome guide](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13). I've copied it's contents below for my convenience.
 
