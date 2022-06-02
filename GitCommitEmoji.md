@@ -52,43 +52,29 @@ See also [gitmoji](https://gitmoji.carloscuesta.me/).
 
 Git commit style
 
-feat: A new feature
-
-fix: A bug fix
-
-docs: Changes to documentation
-
-style: Formatting, missing semi colons, etc; no code change
-
-refactor: Refactoring production code
-
-test: Adding tests, refactoring test; no production code change
-
-chore: Updating build tasks, package manager configs, etc; no production code change (chore is now Build)
-
 Nice article on [semantic commit messages](https://nitayneeman.com/posts/understanding-semantic-commit-messages-using-git-and-angular/)
 
 Read the commit messages. You'll get a clear idea which commit falls under which type (eg, `Removes` falls under `Refactor`)
 
 Looks like these are the main ones.
 
-:construction_worker:         Build
+:construction_worker:         Build      Updating build tasks, package manager configs, etc; no production code change
 
-:green_heart:                 Ci
+:green_heart:                 Ci          Continuous integration
 
-:memo:                        Docs
+:memo:                        Docs        Changes to documentation
 
-:sparkles:                    Feat
+:sparkles:                    Feat        A new feature
 
-:bug:                         Fix
+:bug:                         Fix         A bug fix
 
-:zap:                         Perf
+:zap:                         Perf        Performance improvement
 
-:recycle:                     Refactor
+:recycle:                     Refactor    Refactoring production code
 
-:art:                         Style
+:art:                         Style       Formatting, missing semi colons, etc; no code change
 
-:white_check_mark:            Test
+:white_check_mark:            Test        Adding tests, refactoring test; no production code change
 
 
 Found this [awesome guide](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13). I've copied it's contents below for my convenience.
