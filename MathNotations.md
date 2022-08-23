@@ -4,6 +4,9 @@
 | input | output|
 |:---------------------------|:----------------------------------------------|
 | `# Math notations`  | # Math notations |
+| `$\log{2}8$`       |    $\log_{2} 8$    |
+| `$\lg8$`       |    $\lg8$    |
+| `$\ln8$`       |    $\ln8$    |
 | `$\int y \mathrm{d}x$`  | $\int y \mathrm{d}x$ |
 | `Symbol`  | Symbol |
 | `$\alpha$`  | $\alpha$ |
