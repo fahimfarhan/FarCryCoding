@@ -27,5 +27,8 @@ To my future self: Let's make some rules:
 1. [cp-algorithms](https://cp-algorithms.com/index.html) This is my new favourite website! Study this thoroughly
 2. [RodneyShag/LeetCode_solutions](https://github.com/RodneyShag/LeetCode_solutions) 
 
+# Synapse Course Materials
+* [DrSwad/Synapse-Advanced-S3](https://github.com/DrSwad/Synapse-Advanced-S3)
+
 (Yeah, I watch others' solutions a lot because if it takes more than 20 minutes, you probably can't figure it out. So one should 
 study related topics, see some example solutions etc. )

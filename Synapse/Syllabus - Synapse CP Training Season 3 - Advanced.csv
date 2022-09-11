@@ -1,0 +1,38 @@
+Topic,Details,Classes
+Data Structure,"i) Square Root Decomposition
+ii) Sparse Table + LCA + RMQ in O(1) for static data 
+iii) Segment Tree Basics + BIT
+iv) Segment Tree Advanced",4
+Graph,"i) Variations of Dijkstra
+ii) 0/1 BFS 
+iii) Floyd Warshall",1
+,"i) SCC
+ii) 2-SAT",1
+String,"i) Trie
+ii) Hashing basics
+",2
+,"i) Prefix function
+ii) Pattern matching using KMP
+iii) Problem Solving",
+Math,"i) Intro to Probability/Expected Value
+ii) Number Theory + Combinatorics Advanced Important Problems",2
+Dynamic Programming,"i) Introduction to DP
+ii) Iterative DP
+iii) Problem solving",3
+,"iv) Broken Profile DP
+v) DP with DS
+vi) Problem solving",
+,"vi) Bitmask DP
+vii) Problem solving",
+Game Theory,"i) Winning state, losing state, and basic terminologies
+ii) DP formulation
+iii) Nim game",1
+Geometry,"i) Representing points, segments, lines, polygons
+ii) Vector, dot product, cross product
+iii) Intersection between lines and segments
+iv) Area of Polygon
+v) Point in Polygon
+vi) Intersection between line and polygon
+vii) Pick's theorem
+viii) Ternary search
+ix) Precision Issue Handling",1
