@@ -26,6 +26,7 @@ To my future self: Let's make some rules:
 ## Useful links
 1. [cp-algorithms](https://cp-algorithms.com/index.html) This is my new favourite website! Study this thoroughly
 2. [RodneyShag/LeetCode_solutions](https://github.com/RodneyShag/LeetCode_solutions) 
+3. [MathBugs](https://st3inum.github.io/) an interesting website focusing on math problems
 
 # Synapse Course Materials
 * [DrSwad/Synapse-Advanced-S3](https://github.com/DrSwad/Synapse-Advanced-S3)
