@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
+<link rel="stylesheet" href="./w3.css"> 
+
 # Lt 904 Fruit into Basket
 
 ## Solution
@@ -186,6 +189,50 @@ Instead, we can just use a variable max_picked to keep track of the maximum wind
 
 ![904_sc_2.png](./img/904_sc_3.png)
 For the details on the implementation, let's take a look at the following slides.
+
+<p>
+
+<h2 class="w3-center">Slideshow</h2>
+
+<div class="w3-content w3-display-container">
+  <img class="mySlides" src="./img/904-slides-v4/sl-1.png" style="width:100%">
+  <img class="mySlides" src="./img/904-slides-v4/sl-2.png" style="width:100%">
+  <img class="mySlides" src="./img/904-slides-v4/sl-3.png" style="width:100%">
+  <img class="mySlides" src="./img/904-slides-v4/sl-4.png" style="width:100%">
+  <img class="mySlides" src="./img/904-slides-v4/sl-5.png" style="width:100%">
+  <img class="mySlides" src="./img/904-slides-v4/sl-6.png" style="width:100%">
+  <img class="mySlides" src="./img/904-slides-v4/sl-7.png" style="width:100%">
+  <img class="mySlides" src="./img/904-slides-v4/sl-8.png" style="width:100%">
+  <img class="mySlides" src="./img/904-slides-v4/sl-9.png" style="width:100%">
+  <img class="mySlides" src="./img/904-slides-v4/sl-10.png" style="width:100%">
+  <img class="mySlides" src="./img/904-slides-v4/sl-11.png" style="width:100%">
+  <img class="mySlides" src="./img/904-slides-v4/sl-12.png" style="width:100%">
+  <img class="mySlides" src="./img/904-slides-v4/sl-13.png" style="width:100%">
+
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+</div>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+</p>
 
 ## Algorithm
 1. Initialize max_picked = 0 as the maximum fruits we can collect, and use hash map basket to record the types of fruits in the current window.
