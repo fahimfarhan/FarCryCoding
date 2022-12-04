@@ -1,0 +1,13 @@
+Case #1: 
+ avg = 3
+ avg = 2
+ avg = 2
+ avg = 0
+ avg = 1
+ avg = 4
+
+3
+Case #2: 
+ avg = 0
+
+0
