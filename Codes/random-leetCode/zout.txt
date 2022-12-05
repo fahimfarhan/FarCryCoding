@@ -1,0 +1,13 @@
+inside setOfIdx = 0
+inside setOfIdx = 2
+inside setOfIdx = 3
+inside setOfIdx = 4
+4
+inside setOfIdx = 0
+inside setOfIdx = 1
+inside setOfIdx = 2
+3
+inside setOfIdx = 0
+inside setOfIdx = 3
+inside setOfIdx = 4
+3
