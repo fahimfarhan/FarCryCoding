@@ -8,7 +8,7 @@ To my future self: Let's make some rules:
 2. Since file name is self explainatory, let's create commit messages based on problem categories / tags.
   For example, a sample commit message 
 ```bash
-:rocket: `Build(LeetCode-007):`  #tags graph bfs string hash_set
+:rocket: `hard(Lt-007):`  #tags graph bfs string hash_set microsoft(4) google(3)
 ```
   I mean, I'm not working on a project, so I don't need a title, followed by bullet points explaining what was the 
   problem, what the feature should be, what I did to implement it, etc in a commit message.
