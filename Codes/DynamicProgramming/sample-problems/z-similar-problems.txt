@@ -18,3 +18,13 @@ Solving Questions With Brainpower
 Medium
 Count Number of Ways to Place Houses
 Medium
+Longest Palindromic Subsequence
+Medium
+Delete Operation for Two Strings
+Medium
+-------------------
+15.12.2022 similar to Lt-1143-longest-common-subsequence.cpp
+Shortest Common Supersequence
+Hard
+Maximize Number of Subsequences in a String
+Medium
