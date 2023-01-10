@@ -27,7 +27,7 @@ To my future self: Let's make some rules:
 1. [cp-algorithms](https://cp-algorithms.com/index.html) This is my new favourite website! Study this thoroughly
 2. [RodneyShag/LeetCode_solutions](https://github.com/RodneyShag/LeetCode_solutions) 
 3. [MathBugs](https://st3inum.github.io/) an interesting website focusing on math problems
-
+4. [kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl) A 25 page pdf sample to be used in ICPC contests (Reminder to myself: take inspiration from here, and build your own version)
 # Synapse Course Materials
 * [DrSwad/Synapse-Advanced-S3](https://github.com/DrSwad/Synapse-Advanced-S3)
 
