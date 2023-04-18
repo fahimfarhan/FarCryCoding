@@ -33,3 +33,19 @@ To my future self: Let's make some rules:
 
 (Yeah, I watch others' solutions a lot because if it takes more than 20 minutes, you probably can't figure it out. So one should 
 study related topics, see some example solutions etc. )
+
+## Quick setup of docker on Fedora
+Follow the instructions precisely: [link](https://docs.docker.com/engine/install/fedora/)
+
+Once installed, start docker using:
+
+```bash
+ sudo systemctl start docker
+```
+
+And stop docker using:
+
+```bash
+sudo systemctl stop docker  # gives a warning: Warning: Stopping docker.service, but it can still be activated by:  docker.socket
+sudo systemctl stop docker.socket
+```
